@@ -1,0 +1,4 @@
+In this session, we will discuss how to write a basic program that allows you to load a data set and examine frequency distributions. Your task will be to write a program that helps you to explore the variables you have selected for your own research question. You may choose either Python or SAS. Both are made freely available, and we have created a helpful guide to support you in making the decision. Once you have selected your platform, just follow the instructions in the appropriate "GETTING STARTED...." file, and then check out this week's video lessons aimed at helping you write and run your first program. You need only view the lessons for one of the statistical platforms (SAS or Python).
+
+# Assignment Tumblr Link:
+https://deepdatadriven.tumblr.com/post/172538997228/data-management-and-visualizationweek-2
